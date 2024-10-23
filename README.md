@@ -127,6 +127,7 @@ backend/
         "customerName": "John Doe",
         "salespersonName": "Jane Smith",
         "notes": "Paid in full",
+        "paymentType": "Cash",
         "Products": [
           { "id": 1, "name": "Product A", "price": 10.99 },
           { "id": 2, "name": "Product B", "price": 5.49 }
@@ -178,6 +179,7 @@ backend/
   - `customerName`: Name of the customer.
   - `salespersonName`: Name of the salesperson.
   - `notes`: Additional notes.
+  - `paymentType`: Payment method the customer used (Cash, Debit, etc)
   
 - **`InvoiceProduct` Table**:
   - `invoiceId`: Foreign key to the `Invoices` table.
