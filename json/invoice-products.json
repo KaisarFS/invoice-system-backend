@@ -1,0 +1,62 @@
+[
+  {
+    "invoiceId": 1,
+    "productId": 1
+  },
+  {
+    "invoiceId": 1,
+    "productId": 2
+  },
+  {
+    "invoiceId": 2,
+    "productId": 3
+  },
+  {
+    "invoiceId": 2,
+    "productId": 4
+  },
+  {
+    "invoiceId": 3,
+    "productId": 2
+  },
+  {
+    "invoiceId": 3,
+    "productId": 5
+  },
+  {
+    "invoiceId": 4,
+    "productId": 1
+  },
+  {
+    "invoiceId": 4,
+    "productId": 6
+  },
+  {
+    "invoiceId": 5,
+    "productId": 7
+  },
+  {
+    "invoiceId": 5,
+    "productId": 3
+  },
+  {
+    "invoiceId": 6,
+    "productId": 2
+  },
+  {
+    "invoiceId": 6,
+    "productId": 4
+  },
+  {
+    "invoiceId": 7,
+    "productId": 5
+  },
+  {
+    "invoiceId": 7,
+    "productId": 6
+  },
+  {
+    "invoiceId": 8,
+    "productId": 7
+  }
+]

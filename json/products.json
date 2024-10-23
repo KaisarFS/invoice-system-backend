@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 120.00,
+    "stock": 150,
+    "picture": "https://images.pexels.com/photos/374656/pexels-photo-374656.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone - 128GB, 6GB RAM",
+    "price": 599.99,
+    "stock": 50,
+    "picture": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "4K Ultra HD Smart TV",
+    "price": 799.00,
+    "stock": 30,
+    "picture": "https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Gaming Mouse",
+    "price": 45.00,
+    "stock": 200,
+    "picture": "https://images.pexels.com/photos/1556511/pexels-photo-1556511.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Portable Bluetooth Speaker",
+    "price": 80.00,
+    "stock": 100,
+    "picture": "https://images.pexels.com/photos/374640/pexels-photo-374640.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Laptop - Intel i7, 16GB RAM, 512GB SSD",
+    "price": 999.00,
+    "stock": 40,
+    "picture": "https://images.pexels.com/photos/18105/pexels-photo.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch with Fitness Tracking",
+    "price": 150.00,
+    "stock": 180,
+    "picture": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Professional DSLR Camera",
+    "price": 1250.00,
+    "stock": 20,
+    "picture": "https://images.pexels.com/photos/1005155/pexels-photo-1005155.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds with Charging Case",
+    "price": 85.00,
+    "stock": 220,
+    "picture": "https://images.pexels.com/photos/388144/pexels-photo-388144.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Gaming Keyboard with RGB Backlight",
+    "price": 70.00,
+    "stock": 150,
+    "picture": "https://images.pexels.com/photos/34089/pexels-photo.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tablet - 10 inch, 64GB",
+    "price": 350.00,
+    "stock": 80,
+    "picture": "https://images.pexels.com/photos/1092640/pexels-photo-1092640.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Curved Monitor - 32 inch, 144Hz",
+    "price": 500.00,
+    "stock": 25,
+    "picture": "https://images.pexels.com/photos/374077/pexels-photo-374077.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Smart Home Assistant Speaker",
+    "price": 110.00,
+    "stock": 60,
+    "picture": "https://images.pexels.com/photos/7360/startup-photos.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Noise-Cancelling Over-Ear Headphones",
+    "price": 180.00,
+    "stock": 90,
+    "picture": "https://images.pexels.com/photos/556416/pexels-photo-556416.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Wireless Charger for Smartphone",
+    "price": 35.00,
+    "stock": 300,
+    "picture": "https://images.pexels.com/photos/1298601/pexels-photo-1298601.jpeg"
+  }
+]
