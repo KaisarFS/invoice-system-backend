@@ -27,22 +27,22 @@ This project is a **Node.js** and **Sequelize**-based backend for an invoice man
 ```
 backend/
 ├── config/
-│   ├── config.json               # Database configuration for different environments
+│   ├── config.json                # Database configuration for different environments
 ├── controllers/
-│   └── invoiceController.js      # Handles invoice creation and retrieval logic
+│   └── invoiceController.js       # Handles invoice creation and retrieval logic
 ├── migrations/
-│   ├── create-invoice.js         # Migration for creating the Invoices table
-│   ├── create-product.js         # Migration for creating the Products table
-│   ├── create-invoice-product.js # Migration for creating the InvoiceProduct pivot table
+│   ├── create-invoice.js          # Migration for creating the Invoices table
+│   ├── create-product.js          # Migration for creating the Products table
+│   ├── create-invoice-product.js  # Migration for creating the InvoiceProduct pivot table
 │   ├── add-paymentType-to-invoice # Migration for adding the payment type to the Invoices pivot table
 ├── models/
-│   ├── invoice.js                # Invoice model definition
-│   ├── product.js                # Product model definition
-│   ├── index.js                  # Sequelize initialization and model registration
+│   ├── invoice.js                 # Invoice model definition
+│   ├── product.js                 # Product model definition
+│   ├── index.js                   # Sequelize initialization and model registration
 ├── seeders/
-│   ├── demo-invoice.js           # Seeder for inserting sample invoices
-│   ├── demo-invoice-product.js   # Seeder for linking invoices with products
-│   ├── demo-product.js           # Seeder for inserting sample products
+│   ├── demo-invoice.js            # Seeder for inserting sample invoices
+│   ├── demo-invoice-product.js    # Seeder for linking invoices with products
+│   ├── demo-product.js            # Seeder for inserting sample products
 ├── package.json
 └── server.js                     # Application entry point
 ```
