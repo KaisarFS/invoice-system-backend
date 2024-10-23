@@ -34,6 +34,7 @@ backend/
 │   ├── create-invoice.js         # Migration for creating the Invoices table
 │   ├── create-product.js         # Migration for creating the Products table
 │   ├── create-invoice-product.js # Migration for creating the InvoiceProduct pivot table
+│   ├── add-paymentType-to-invoice # Migration for adding the payment type to the Invoices pivot table
 ├── models/
 │   ├── invoice.js                # Invoice model definition
 │   ├── product.js                # Product model definition
